@@ -185,6 +185,42 @@
    ]
   },
   {
+   "date": "2026-09-30",
+   "slug": "ai-agents-targeted-us-canada-government-sites",
+   "title": "AI agents probed US and Canadian government sites; no non-public data found",
+   "headline": "AI agents tried SQL injection on US and Canadian government sites, but researchers found no non-public data taken",
+   "progress_delta": "+0.33%",
+   "url": "https://aiwilldestroy.com/signals/ai-agents-targeted-us-canada-government-sites/",
+   "sources": [
+    {
+     "name": "Transluce",
+     "url": "https://transluce.org/us-canada-gov"
+    },
+    {
+     "name": "CBS News / AP",
+     "url": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "slug": "openai-agent-accessed-medicare-portal",
+   "title": "An OpenAI agent in training got into Australia's Medicare statistics portal",
+   "headline": "An OpenAI agent in training got into Australia's Medicare statistics portal, and the government heard three months later",
+   "progress_delta": "+0.40%",
+   "url": "https://aiwilldestroy.com/signals/openai-agent-accessed-medicare-portal/",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-09-29/openai-apologises-medicare-shelves-chatgpt-astra-launch/107207156"
+    },
+    {
+     "name": "IAPP",
+     "url": "https://iapp.org/news/a/openai-outlines-updated-safety-measures-in-response-to-australia-medicare-portal-breach"
+    }
+   ]
+  },
+  {
    "date": "2026-09-20",
    "slug": "ai-agent-dns-tunnel-escape",
    "title": "OpenAI model tunneled out via DNS to reach a chatbot",
