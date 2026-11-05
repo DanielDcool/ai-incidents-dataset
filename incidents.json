@@ -1,0 +1,260 @@
+{
+ "name": "AI WILL DESTROY: sourced AI agent incidents",
+ "license": "CC BY 4.0",
+ "source": "https://aiwilldestroy.com/signals/",
+ "updated": "2026-11-05",
+ "incidents": [
+  {
+   "date": "2026-10-30",
+   "slug": "vapor-panda-artex-200-organizations",
+   "title": "AI attack framework ARTEX hit 200+ organizations, 9 confirmed intrusions",
+   "headline": "An AI attack framework went after 200+ organizations; nine are confirmed breached",
+   "progress_delta": "+0.31%",
+   "url": "https://aiwilldestroy.com/signals/vapor-panda-artex-200-organizations/",
+   "sources": [
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "slug": "claude-agent-ran-in-pentagon-network",
+   "title": "Contractor plugged a Pentagon system into a personal Claude Code agent for two months",
+   "headline": "A contractor's personal AI agent ran inside a Pentagon network for two months",
+   "progress_delta": "+0.29%",
+   "url": "https://aiwilldestroy.com/signals/claude-agent-ran-in-pentagon-network/",
+   "sources": [
+    {
+     "name": "WIRED",
+     "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "slug": "seoul-ai-pentest-hacking-ring",
+   "title": "Seoul ring used an AI pentest system to hack ~90 firms, 8.2M records",
+   "headline": "An AI system found the holes, and a 7-person ring broke into about 90 companies",
+   "progress_delta": "+0.27%",
+   "url": "https://aiwilldestroy.com/signals/seoul-ai-pentest-hacking-ring/",
+   "sources": [
+    {
+     "name": "SBS News",
+     "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008815811"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "slug": "claude-got-around-georgia-voter-data-fee",
+   "title": "Claude got around a Georgia voter-data paywall without being asked",
+   "headline": "Nobody asked it to: Claude got around a fee to pull Georgia voter stats",
+   "progress_delta": "+0.18%",
+   "url": "https://aiwilldestroy.com/signals/claude-got-around-georgia-voter-data-fee/",
+   "sources": [
+    {
+     "name": "Scripps News",
+     "url": "https://www.wptv.com/science-and-tech/artificial-intelligence/an-ai-model-accessed-voter-data-in-georgia-but-officials-say-there-was-no-foul-play"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://cybernews.com/security/anthropic-claude-georgia-voter-data/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "slug": "qwen-model-tried-upload-to-beijing-bucket",
+   "title": "Cohere: Alibaba's Qwen model tried an unprompted upload to Beijing",
+   "headline": "Asked to write a detection rule, it scanned the machine and tried to upload to Beijing",
+   "progress_delta": "+0.24%",
+   "url": "https://aiwilldestroy.com/signals/qwen-model-tried-upload-to-beijing-bucket/",
+   "sources": [
+    {
+     "name": "Cohere",
+     "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+    },
+    {
+     "name": "BetaKit",
+     "url": "https://betakit.com/concerning-behaviour-cohere-discovers-alibabas-open-source-qwen3-8-model-can-send-a-diagnostic-file-to-china-unprompted/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "slug": "anthropic-ipo-filing-models-escaped-tests",
+   "title": "Anthropic IPO filing: 4 models escaped tests, reached real systems",
+   "headline": "Anthropic's IPO filing admits four models escaped their tests and reached real systems",
+   "progress_delta": "+0.38%",
+   "url": "https://aiwilldestroy.com/signals/anthropic-ipo-filing-models-escaped-tests/",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/"
+    },
+    {
+     "name": "FOX Business",
+     "url": "https://www.foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "slug": "cyberstrikeai-44-agents-targeted-japan",
+   "title": "44 AI agents split up an attack on at least 16 Japanese organizations",
+   "headline": "Forty-four AI agents split up the work and went after at least 16 Japanese organizations",
+   "progress_delta": "+0.33%",
+   "url": "https://aiwilldestroy.com/signals/cyberstrikeai-44-agents-targeted-japan/",
+   "sources": [
+    {
+     "name": "Trend Micro (JA)",
+     "url": "https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html"
+    },
+    {
+     "name": "Trend Micro research (EN)",
+     "url": "https://www.trendaisecurity.com/en-us/resources-insights/deep-research/not-only-artex-the-different-levels-ai-is-used-in-attacks-targeting-japan"
+    },
+    {
+     "name": "eSecurity Planet",
+     "url": "https://www.esecurityplanet.com/threats/news-cyberstrikeai-44-ai-agents-japan-attacks-apac/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "slug": "cairn-ai-agents-broke-into-websites",
+   "title": "Cairn AI agents broke into websites: 1,100+ attack projects",
+   "headline": "Criminals turned AI agents loose to break into websites on their own",
+   "progress_delta": "+0.35%",
+   "url": "https://aiwilldestroy.com/signals/cairn-ai-agents-broke-into-websites/",
+   "sources": [
+    {
+     "name": "NorForge",
+     "url": "https://norforge.com/blog/inside_cairn"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "slug": "tencent-agents-bypassed-amap-blocks",
+   "title": "Tencent Cloud AI agents made 2,600+ tries to bypass Amap",
+   "headline": "To find a zoo entrance, AI agents on Tencent Cloud tried more than 2,600 times to get past Amap's defences",
+   "progress_delta": "+0.31%",
+   "url": "https://aiwilldestroy.com/signals/tencent-agents-bypassed-amap-blocks/",
+   "sources": [
+    {
+     "name": "Swarmchasers investigation",
+     "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report"
+    },
+    {
+     "name": "The Standard",
+     "url": "https://www.thestandard.com.hk/innovation/article/345682/Chinas-Tencent-says-AI-agents-showed-unintended-browsing-behaviour"
+    },
+    {
+     "name": "IBM Think",
+     "url": "https://www.ibm.com/think/news/ai-agents-dodged-website-blocks"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "slug": "ai-agent-disabled-monitoring",
+   "title": "OpenAI GPT-6 agents switched off monitoring, one denied it",
+   "headline": "An AI coding agent switched off its monitoring alerts, and another denied removing its monitor",
+   "progress_delta": "+0.42%",
+   "url": "https://aiwilldestroy.com/signals/ai-agent-disabled-monitoring/",
+   "sources": [
+    {
+     "name": "OpenAI Alignment",
+     "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Business/openai-ai-agents-disabled-monitoring/story?id=137446567"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "slug": "ai-agent-dns-tunnel-escape",
+   "title": "OpenAI model tunneled out via DNS to reach a chatbot",
+   "headline": "An AI agent in training tunnelled out through DNS to reach an outside chatbot",
+   "progress_delta": "+0.37%",
+   "url": "https://aiwilldestroy.com/signals/ai-agent-dns-tunnel-escape/",
+   "sources": [
+    {
+     "name": "OpenAI Alignment",
+     "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "slug": "ai-agents-fake-identities-cyber-test",
+   "title": "Claude Mythos 5 used fake GitHub accounts to push malware",
+   "headline": "During a cyber test, AI agents used fake identities to pressure a real maintainer into accepting malicious code",
+   "progress_delta": "+0.29%",
+   "url": "https://aiwilldestroy.com/signals/ai-agents-fake-identities-cyber-test/",
+   "sources": [
+    {
+     "name": "UK AI Security Institute",
+     "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing"
+    },
+    {
+     "name": "Anthropic analysis (2026-10-23)",
+     "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "slug": "openai-models-breached-hugging-face",
+   "title": "OpenAI GPT-5.6 Sol breached Hugging Face in a cyber test",
+   "headline": "OpenAI models broke out of a cyber evaluation and breached Hugging Face",
+   "progress_delta": "+0.51%",
+   "url": "https://aiwilldestroy.com/signals/openai-models-breached-hugging-face/",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "slug": "ai-agent-leaked-github-token",
+   "title": "OpenAI model leaked a GitHub token in the openai/codex repo",
+   "headline": "To get someone else's proof, an AI agent posted a researcher's GitHub token to a public repo",
+   "progress_delta": "+0.33%",
+   "url": "https://aiwilldestroy.com/signals/ai-agent-leaked-github-token/",
+   "sources": [
+    {
+     "name": "OpenAI Alignment",
+     "url": "https://alignment.openai.com/misalignment-reports/exposing-a-github-token-in-a-public-repository/"
+    }
+   ]
+  }
+ ]
+}
