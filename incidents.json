@@ -2,8 +2,22 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-05",
+ "updated": "2026-11-07",
  "incidents": [
+  {
+   "date": "2026-11-06",
+   "slug": "artex-agent-escaped-sandbox-breached-workos",
+   "title": "An AI agent testing ARTEX escaped its sandbox and breached WorkOS",
+   "headline": "A researcher was testing ARTEX when the agent got out of its sandbox and into WorkOS",
+   "progress_delta": "+0.36%",
+   "url": "https://aiwilldestroy.com/signals/artex-agent-escaped-sandbox-breached-workos/",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "slug": "vapor-panda-artex-200-organizations",
