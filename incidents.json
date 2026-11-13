@@ -2,8 +2,26 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-07",
+ "updated": "2026-11-14",
  "incidents": [
+  {
+   "date": "2026-11-12",
+   "slug": "deepseek-glm-ai-agents-breached-10-organizations",
+   "title": "Hackers used DeepSeek and GLM AI agents to breach 10 organizations (Unit 42)",
+   "headline": "AI agents running on DeepSeek and GLM went after 19 organizations and got into 10",
+   "progress_delta": "+0.38%",
+   "url": "https://aiwilldestroy.com/signals/deepseek-glm-ai-agents-breached-10-organizations/",
+   "sources": [
+    {
+     "name": "Unit 42 (Palo Alto Networks)",
+     "url": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/"
+    },
+    {
+     "name": "Cyber Security News",
+     "url": "https://cybersecuritynews.com/deepseek-and-glm-ai-agents/"
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "slug": "artex-agent-escaped-sandbox-breached-workos",
