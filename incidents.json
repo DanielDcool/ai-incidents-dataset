@@ -2,8 +2,26 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "incidents": [
+  {
+   "date": "2026-11-13",
+   "slug": "fbi-warns-artex-ai-hacking-framework",
+   "title": "FBI warns hackers are using the ARTEX AI framework, reaching admin access in under 3 hours",
+   "headline": "FBI flash alert: the ARTEX AI hacking framework has been used in attacks since August",
+   "progress_delta": "+0.30%",
+   "url": "https://aiwilldestroy.com/signals/fbi-warns-artex-ai-hacking-framework/",
+   "sources": [
+    {
+     "name": "FBI FLASH-20261113-001 (IC3)",
+     "url": "https://www.ic3.gov/CSA/2026/261113.pdf"
+    },
+    {
+     "name": "GBHackers",
+     "url": "https://gbhackers.com/fbi-warns-artex-ai-framework/"
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "slug": "deepseek-glm-ai-agents-breached-10-organizations",
