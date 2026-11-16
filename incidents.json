@@ -2,8 +2,30 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "incidents": [
+  {
+   "date": "2026-11-16",
+   "slug": "google-ai-agent-fully-automated-exploits-no-human",
+   "title": "Google says hackers used AI to fully automate finding and exploiting bugs, with no human in the loop",
+   "headline": "Google found an attack framework where AI reads patches, writes exploits and runs them, with no human involved",
+   "progress_delta": "+0.35%",
+   "url": "https://aiwilldestroy.com/signals/google-ai-agent-fully-automated-exploits-no-human/",
+   "sources": [
+    {
+     "name": "Google Threat Intelligence Group (GTIG)",
+     "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold"
+    },
+    {
+     "name": "Google blog",
+     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/"
+    },
+    {
+     "name": "CyberScoop",
+     "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/"
+    }
+   ]
+  },
   {
    "date": "2026-11-13",
    "slug": "fbi-warns-artex-ai-hacking-framework",
