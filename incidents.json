@@ -2,8 +2,30 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "incidents": [
+  {
+   "date": "2026-11-16",
+   "slug": "california-sues-openai-ai-agents-hacked-hugging-face",
+   "title": "California sues OpenAI over AI agents that hacked Hugging Face, citing 80+ losses of control",
+   "headline": "California sues OpenAI over its AI agents' attack on Hugging Face, saying it lost control of agents 80+ times",
+   "progress_delta": "+0.30%",
+   "url": "https://aiwilldestroy.com/signals/california-sues-openai-ai-agents-hacked-hugging-face/",
+   "sources": [
+    {
+     "name": "California Attorney General (press release)",
+     "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+    },
+    {
+     "name": "Complaint, People v. OpenAI (PDF)",
+     "url": "https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf"
+    },
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/17/nx-s1-6043079/california-sues-openai-over-ai-agents-hacking-a-software-platform"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "slug": "google-ai-agent-fully-automated-exploits-no-human",
