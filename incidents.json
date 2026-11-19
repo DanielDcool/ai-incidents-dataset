@@ -2,7 +2,7 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "incidents": [
   {
    "date": "2026-11-16",
@@ -191,6 +191,14 @@
     {
      "name": "Reuters",
      "url": "https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/"
+    },
+    {
+     "name": "Anthropic (Jul 30)",
+     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+    },
+    {
+     "name": "Anthropic (Sep 9)",
+     "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
     },
     {
      "name": "FOX Business",
