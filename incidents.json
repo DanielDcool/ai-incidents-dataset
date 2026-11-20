@@ -2,8 +2,34 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-19",
+ "updated": "2026-11-21",
  "incidents": [
+  {
+   "date": "2026-11-20",
+   "slug": "european-commission-ai-cyberattack-disrupted-systems",
+   "title": "European Commission confirms AI-generated cyberattack disrupted its systems",
+   "headline": "European Commission confirms an \"AI generated cyber campaign\" took several of its systems offline",
+   "progress_delta": "+0.30%",
+   "url": "https://aiwilldestroy.com/signals/european-commission-ai-cyberattack-disrupted-systems/",
+   "sources": [
+    {
+     "name": "Help Net Security",
+     "url": "https://www.helpnetsecurity.com/2026/11/20/european-commission-ai-generated-cyberattack-publicly-available-tool/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
+    },
+    {
+     "name": "European Commission press briefing (video)",
+     "url": "https://audiovisual.ec.europa.eu/en/media/video/I-298222"
+    },
+    {
+     "name": "CERT-EU on ARTEX (Nov 5)",
+     "url": "https://www.cert.europa.eu/blog/from-penetration-testing-to-cyber-threat-beware-of-artex"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "slug": "california-sues-openai-ai-agents-hacked-hugging-face",
