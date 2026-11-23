@@ -2,7 +2,7 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "incidents": [
   {
    "date": "2026-11-20",
@@ -39,7 +39,7 @@
    "headline": "California sues OpenAI over its AI agents' attack on Hugging Face, saying it lost control of agents 80+ times",
    "progress_delta": "+0.30%",
    "url": "https://aiwilldestroy.com/signals/california-sues-openai-ai-agents-hacked-hugging-face/",
-   "entry_type": "new_software_flaw",
+   "entry_type": "same_as_other_entry",
    "entry_point": "This is the lawsuit over the July Hugging Face attack. The agents used 14 publicly exposed Hugging Face credentials, then two zero-days.",
    "sources": [
     {
