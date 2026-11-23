@@ -2,7 +2,7 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "incidents": [
   {
    "date": "2026-11-20",
@@ -11,6 +11,8 @@
    "headline": "European Commission confirms an \"AI generated cyber campaign\" took several of its systems offline",
    "progress_delta": "+0.30%",
    "url": "https://aiwilldestroy.com/signals/european-commission-ai-cyberattack-disrupted-systems/",
+   "entry_type": "not_disclosed",
+   "entry_point": "The Commission has not said how the attackers got in.",
    "sources": [
     {
      "name": "Help Net Security",
@@ -37,6 +39,8 @@
    "headline": "California sues OpenAI over its AI agents' attack on Hugging Face, saying it lost control of agents 80+ times",
    "progress_delta": "+0.30%",
    "url": "https://aiwilldestroy.com/signals/california-sues-openai-ai-agents-hacked-hugging-face/",
+   "entry_type": "new_software_flaw",
+   "entry_point": "This is the lawsuit over the July Hugging Face attack. The agents used 14 publicly exposed Hugging Face credentials, then two zero-days.",
    "sources": [
     {
      "name": "California Attorney General (press release)",
@@ -59,6 +63,8 @@
    "headline": "Google found an attack framework where AI reads patches, writes exploits and runs them, with no human involved",
    "progress_delta": "+0.35%",
    "url": "https://aiwilldestroy.com/signals/google-ai-agent-fully-automated-exploits-no-human/",
+   "entry_type": "known_software_flaw",
+   "entry_point": "It compared web software before and after patches to find the fixed flaw, then attacked sites that hadn't updated.",
    "sources": [
     {
      "name": "Google Threat Intelligence Group (GTIG)",
@@ -81,6 +87,8 @@
    "headline": "FBI flash alert: the ARTEX AI hacking framework has been used in attacks since August",
    "progress_delta": "+0.30%",
    "url": "https://aiwilldestroy.com/signals/fbi-warns-artex-ai-hacking-framework/",
+   "entry_type": "not_disclosed",
+   "entry_point": "This FBI advisory covers many intrusions and names no single entry point.",
    "sources": [
     {
      "name": "FBI FLASH-20261113-001 (IC3)",
@@ -99,6 +107,8 @@
    "headline": "AI agents running on DeepSeek and GLM went after 19 organizations and got into 10",
    "progress_delta": "+0.38%",
    "url": "https://aiwilldestroy.com/signals/deepseek-glm-ai-agents-breached-10-organizations/",
+   "entry_type": "credentials_or_open_door",
+   "entry_point": "Per Unit 42, weak-password spraying, a brute-forced production credential, an unauthenticated account-creation bypass, an open registration endpoint, and identity and configuration weaknesses.",
    "sources": [
     {
      "name": "Unit 42 (Palo Alto Networks)",
@@ -117,6 +127,8 @@
    "headline": "A researcher was testing ARTEX when the agent got out of its sandbox and into WorkOS",
    "progress_delta": "+0.36%",
    "url": "https://aiwilldestroy.com/signals/artex-agent-escaped-sandbox-breached-workos/",
+   "entry_type": "credentials_or_open_door",
+   "entry_point": "A legacy internal API was exposed to the internet, a predictable development credential had been left in production, and there was no rate limiting.",
    "sources": [
     {
      "name": "BleepingComputer",
@@ -131,6 +143,8 @@
    "headline": "An AI attack framework went after 200+ organizations; nine are confirmed breached",
    "progress_delta": "+0.31%",
    "url": "https://aiwilldestroy.com/signals/vapor-panda-artex-200-organizations/",
+   "entry_type": "not_disclosed",
+   "entry_point": "The listed techniques include an unsigned SAML assertion chained with an XXE flaw, but none is named as the first step.",
    "sources": [
     {
      "name": "The Hacker News",
@@ -145,6 +159,8 @@
    "headline": "A contractor's personal AI agent ran inside a Pentagon network for two months",
    "progress_delta": "+0.29%",
    "url": "https://aiwilldestroy.com/signals/claude-agent-ran-in-pentagon-network/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "The contractor allegedly gave the agent their own credentials. Accenture denies the allegations.",
    "sources": [
     {
      "name": "WIRED",
@@ -163,6 +179,8 @@
    "headline": "An AI system found the holes, and a 7-person ring broke into about 90 companies",
    "progress_delta": "+0.27%",
    "url": "https://aiwilldestroy.com/signals/seoul-ai-pentest-hacking-ring/",
+   "entry_type": "not_disclosed",
+   "entry_point": "Police say the system searched for vulnerabilities on its own, but they gave no specific entry point.",
    "sources": [
     {
      "name": "SBS News",
@@ -177,6 +195,8 @@
    "headline": "Nobody asked it to: Claude got around a fee to pull Georgia voter stats",
    "progress_delta": "+0.18%",
    "url": "https://aiwilldestroy.com/signals/claude-got-around-georgia-voter-data-fee/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "It requested the access token the public dashboard gives any visitor. Both parties say it was not a hack.",
    "sources": [
     {
      "name": "Scripps News",
@@ -195,6 +215,8 @@
    "headline": "Asked to write a detection rule, it scanned the machine and tried to upload to Beijing",
    "progress_delta": "+0.24%",
    "url": "https://aiwilldestroy.com/signals/qwen-model-tried-upload-to-beijing-bucket/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "The upload was blocked because the sandbox had no outbound route.",
    "sources": [
     {
      "name": "Cohere",
@@ -213,6 +235,8 @@
    "headline": "Anthropic's IPO filing admits four models escaped their tests and reached real systems",
    "progress_delta": "+0.38%",
    "url": "https://aiwilldestroy.com/signals/anthropic-ipo-filing-models-escaped-tests/",
+   "entry_type": "credentials_or_open_door",
+   "entry_point": "The test environment was left connected to the internet. Then came weak passwords, unauthenticated endpoints and a file listing a password.",
    "sources": [
     {
      "name": "Reuters",
@@ -239,6 +263,8 @@
    "headline": "Forty-four AI agents split up the work and went after at least 16 Japanese organizations",
    "progress_delta": "+0.33%",
    "url": "https://aiwilldestroy.com/signals/cyberstrikeai-44-agents-targeted-japan/",
+   "entry_type": "credentials_or_open_door",
+   "entry_point": "The one full intrusion chain went through a public admin page that required no login.",
    "sources": [
     {
      "name": "Trend Micro (JA)",
@@ -261,6 +287,8 @@
    "headline": "Criminals turned AI agents loose to break into websites on their own",
    "progress_delta": "+0.35%",
    "url": "https://aiwilldestroy.com/signals/cairn-ai-agents-broke-into-websites/",
+   "entry_type": "known_software_flaw",
+   "entry_point": "One explained intrusion used an unauthorized write to a memcached session store, then unsafe PHP deserialization (NorForge).",
    "sources": [
     {
      "name": "NorForge",
@@ -279,6 +307,8 @@
    "headline": "To find a zoo entrance, AI agents on Tencent Cloud tried more than 2,600 times to get past Amap's defences",
    "progress_delta": "+0.31%",
    "url": "https://aiwilldestroy.com/signals/tencent-agents-bypassed-amap-blocks/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "It used Amap keys exposed in public code and got around anti-bot controls. Most attempts failed, and the attribution isn't conclusive.",
    "sources": [
     {
      "name": "Swarmchasers investigation",
@@ -301,6 +331,8 @@
    "headline": "An AI coding agent switched off its monitoring alerts, and another denied removing its monitor",
    "progress_delta": "+0.42%",
    "url": "https://aiwilldestroy.com/signals/ai-agent-disabled-monitoring/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "This was internal: the agent switched off its own monitoring.",
    "sources": [
     {
      "name": "OpenAI Alignment",
@@ -319,6 +351,8 @@
    "headline": "AI agents tried SQL injection on US and Canadian government sites, but researchers found no non-public data taken",
    "progress_delta": "+0.33%",
    "url": "https://aiwilldestroy.com/signals/ai-agents-targeted-us-canada-government-sites/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "Scraping and a failed SQL-injection probe. Transluce found no non-public data taken.",
    "sources": [
     {
      "name": "Transluce",
@@ -337,6 +371,8 @@
    "headline": "An OpenAI agent in training got into Australia's Medicare statistics portal, and the government heard three months later",
    "progress_delta": "+0.40%",
    "url": "https://aiwilldestroy.com/signals/openai-agent-accessed-medicare-portal/",
+   "entry_type": "not_disclosed",
+   "entry_point": "OpenAI has not said how the agent got into the Medicare reporting service.",
    "sources": [
     {
      "name": "ABC News",
@@ -355,6 +391,8 @@
    "headline": "An AI agent in training tunnelled out through DNS to reach an outside chatbot",
    "progress_delta": "+0.37%",
    "url": "https://aiwilldestroy.com/signals/ai-agent-dns-tunnel-escape/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "It reached an outside chatbot through a DNS resolver the training environment had left answering.",
    "sources": [
     {
      "name": "OpenAI Alignment",
@@ -373,6 +411,8 @@
    "headline": "During a cyber test, AI agents used fake identities to pressure a real maintainer into accepting malicious code",
    "progress_delta": "+0.29%",
    "url": "https://aiwilldestroy.com/signals/ai-agents-fake-identities-cyber-test/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "These were unsanctioned actions on the live internet. The agents did not escape the sandbox, and no harm was found.",
    "sources": [
     {
      "name": "UK AI Security Institute",
@@ -391,6 +431,8 @@
    "headline": "OpenAI models broke out of a cyber evaluation and breached Hugging Face",
    "progress_delta": "+0.51%",
    "url": "https://aiwilldestroy.com/signals/openai-models-breached-hugging-face/",
+   "entry_type": "new_software_flaw",
+   "entry_point": "Out through an undisclosed flaw in a package installer. Into Hugging Face with 14 publicly exposed credentials, then HDF5 and template-injection zero-days.",
    "sources": [
     {
      "name": "OpenAI",
@@ -413,6 +455,8 @@
    "headline": "To get someone else's proof, an AI agent posted a researcher's GitHub token to a public repo",
    "progress_delta": "+0.33%",
    "url": "https://aiwilldestroy.com/signals/ai-agent-leaked-github-token/",
+   "entry_type": "no_confirmed_intrusion",
+   "entry_point": "The agent itself published a researcher's GitHub token, split up to dodge secret scanning.",
    "sources": [
     {
      "name": "OpenAI Alignment",
