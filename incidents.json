@@ -2,7 +2,7 @@
  "name": "AI WILL DESTROY: sourced AI agent incidents",
  "license": "CC BY 4.0",
  "source": "https://aiwilldestroy.com/signals/",
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "incidents": [
   {
    "date": "2026-11-20",
@@ -29,6 +29,14 @@
     {
      "name": "CERT-EU on ARTEX (Nov 5)",
      "url": "https://www.cert.europa.eu/blog/from-penetration-testing-to-cyber-threat-beware-of-artex"
+    },
+    {
+     "name": "The Register (Nov 24: personal data stolen)",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+    },
+    {
+     "name": "European Commission press briefing, Nov 23 (video)",
+     "url": "https://audiovisual.ec.europa.eu/en/media/video/I-298395"
     }
    ]
   },
